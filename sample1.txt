@@ -1,2 +1,3 @@
-this is sapmle 1 
-now moified
+this is sapmle 1
+
+i am under my branch 
